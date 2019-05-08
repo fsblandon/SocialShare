@@ -1,4 +1,4 @@
-package com.example.socialshare;
+package com.example.socialshare.Models;
 
 import android.content.Context;
 import android.graphics.Canvas;

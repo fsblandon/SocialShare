@@ -16,6 +16,7 @@ import android.view.View;
 import android.widget.EditText;
 import android.widget.Toast;
 
+import com.example.socialshare.Models.DrawView;
 import com.example.socialshare.Models.Persona;
 import com.google.firebase.FirebaseApp;
 import com.google.firebase.database.DatabaseReference;

@@ -44,7 +44,7 @@
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent" />
 
-    <com.example.socialshare.DrawView
+    <com.example.socialshare.Models.DrawView
         android:id="@+id/simpleDrawingView1"
         android:layout_width="350dp"
         android:layout_height="303dp"
